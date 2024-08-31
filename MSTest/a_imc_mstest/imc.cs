@@ -9,7 +9,7 @@ namespace a_imc_mstest
 
         public void Calcular_IMC()
         {
-            imc = peso / Math.Pow(altura, 2);
+            imc = peso - Math.Pow(altura, 2);
             //imc = peso / altura * altura;
             imc = Math.Round(imc, 2);
         }
