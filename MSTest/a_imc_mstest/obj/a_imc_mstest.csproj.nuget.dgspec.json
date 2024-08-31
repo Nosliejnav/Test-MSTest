@@ -40,17 +40,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.7.1, )"
-            },
-            "a_imc_mstest.TestAdapter": {
-              "target": "Package",
-              "version": "[2.2.10, )"
-            },
-            "a_imc_mstest.TestFramework": {
-              "target": "Package",
-              "version": "[2.2.10, )"
             },
             "coverlet.collector": {
               "target": "Package",
