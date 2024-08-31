@@ -9,7 +9,7 @@ namespace a_imc_mstest
 
         public void Calcular_IMC()
         {
-            imc = peso - Math.Pow(altura, 2);
+            imc = peso / Math.Pow(altura, 2);
             //imc = peso / altura * altura;
             imc = Math.Round(imc, 2);
         }
@@ -24,7 +24,7 @@ namespace a_imc_mstest
                 categoria = "Sobrepeso";
             if (imc >= 30 && imc < 35)
                 categoria = "Obesidade Grau I";
-            if (imc >= 35 && imc < 40)
+            if (imc >= 30 && imc < 40)
                 categoria = "Obesidade Grau II";
             if (imc >= 40)
                 categoria = "Obesidade Grau III";
