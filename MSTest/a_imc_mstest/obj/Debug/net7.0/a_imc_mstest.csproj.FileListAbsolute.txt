@@ -1,0 +1,5 @@
+K:\DevProjetos\CSharp\Test-MSTest\MSTest\a_imc_mstest\obj\Debug\net7.0\a_imc_mstest.csproj.AssemblyReference.cache
+K:\DevProjetos\CSharp\Test-MSTest\MSTest\a_imc_mstest\obj\Debug\net7.0\a_imc_mstest.GeneratedMSBuildEditorConfig.editorconfig
+K:\DevProjetos\CSharp\Test-MSTest\MSTest\a_imc_mstest\obj\Debug\net7.0\a_imc_mstest.AssemblyInfoInputs.cache
+K:\DevProjetos\CSharp\Test-MSTest\MSTest\a_imc_mstest\obj\Debug\net7.0\a_imc_mstest.AssemblyInfo.cs
+K:\DevProjetos\CSharp\Test-MSTest\MSTest\a_imc_mstest\obj\Debug\net7.0\a_imc_mstest.csproj.CoreCompileInputs.cache

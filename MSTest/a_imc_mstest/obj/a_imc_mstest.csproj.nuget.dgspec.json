@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "K:\\DevProjetos\\CSharp\\Test-MSTest\\a_imc_mstest\\a_imc_mstest.csproj": {}
+    "K:\\DevProjetos\\CSharp\\Test-MSTest\\MSTest\\a_imc_mstest\\a_imc_mstest.csproj": {}
   },
   "projects": {
-    "K:\\DevProjetos\\CSharp\\Test-MSTest\\a_imc_mstest\\a_imc_mstest.csproj": {
+    "K:\\DevProjetos\\CSharp\\Test-MSTest\\MSTest\\a_imc_mstest\\a_imc_mstest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\DevProjetos\\CSharp\\Test-MSTest\\a_imc_mstest\\a_imc_mstest.csproj",
+        "projectUniqueName": "K:\\DevProjetos\\CSharp\\Test-MSTest\\MSTest\\a_imc_mstest\\a_imc_mstest.csproj",
         "projectName": "a_imc_mstest",
-        "projectPath": "K:\\DevProjetos\\CSharp\\Test-MSTest\\a_imc_mstest\\a_imc_mstest.csproj",
+        "projectPath": "K:\\DevProjetos\\CSharp\\Test-MSTest\\MSTest\\a_imc_mstest\\a_imc_mstest.csproj",
         "packagesPath": "C:\\Users\\Vanja\\.nuget\\packages\\",
-        "outputPath": "K:\\DevProjetos\\CSharp\\Test-MSTest\\a_imc_mstest\\obj\\",
+        "outputPath": "K:\\DevProjetos\\CSharp\\Test-MSTest\\MSTest\\a_imc_mstest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vanja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,17 +40,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "MSTest.TestAdapter": {
-              "target": "Package",
-              "version": "[2.2.10, )"
-            },
-            "MSTest.TestFramework": {
-              "target": "Package",
-              "version": "[2.2.10, )"
-            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.7.1, )"
+            },
+            "a_imc_mstest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "a_imc_mstest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
             },
             "coverlet.collector": {
               "target": "Package",
