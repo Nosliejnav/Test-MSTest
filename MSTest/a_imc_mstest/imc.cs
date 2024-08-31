@@ -24,7 +24,7 @@ namespace a_imc_mstest
                 categoria = "Sobrepeso";
             if (imc >= 30 && imc < 35)
                 categoria = "Obesidade Grau I";
-            if (imc >= 30 && imc < 40)
+            if (imc >= 35 && imc < 40)
                 categoria = "Obesidade Grau II";
             if (imc >= 40)
                 categoria = "Obesidade Grau III";
